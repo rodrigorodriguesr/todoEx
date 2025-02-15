@@ -11,6 +11,7 @@ import {
   Alert, 
   FlatList 
 } from "react-native";
+
 import { styles as externalStyles } from "../screens/style";
 import { Ionicons } from "@expo/vector-icons";
 
@@ -132,6 +133,8 @@ export function Home() {
   );
 }
 
+
+//estilização 
 const styles = StyleSheet.create({
   inputActive: {
     borderWidth: 1,
