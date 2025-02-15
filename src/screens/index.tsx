@@ -132,8 +132,6 @@ export function Home() {
     </TouchableWithoutFeedback>
   );
 }
-
-
 //estilização 
 const styles = StyleSheet.create({
   inputActive: {
